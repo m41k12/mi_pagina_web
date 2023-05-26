@@ -1,0 +1,48 @@
+header{ 
+    text-align: center;
+
+}
+#fotomiki {
+    width: 200px; 
+    height: 200px;
+    object-fit: cover;
+    border-radius: 20px;
+    float: left;
+    margin-right: 20px;
+}
+html {
+    background-color: #D2E9E9;
+    
+}
+body{
+    font-family: "consolas", "sans-serif";
+    font-size: medium;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 50px;
+}
+button{
+    font-family: "consolas", sans-serif;
+    font-size: medium;
+    font: black;
+}
+.gatos{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    float: left;
+    margin-right: 20px;
+    border-radius: 20px;
+}
+div{
+    background-color: #E3F4F4;
+    border-radius: 20px;
+    text-align: center;
+    padding: 15px;
+    
+}
+div:hover{
+    background-color: #F8F6F4;
+
+}
+
